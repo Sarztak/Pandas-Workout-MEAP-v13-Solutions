@@ -88,7 +88,7 @@ This repository contains my solutions to the exercises from the book **Pandas Wo
   - Checked memory usage with `.memory_usage()` and learned to specify data types to save memory.
   - Explored techniques for casting string data to categorical types using `.astype('category')
 
-Midway Project & Final Project
+###Midway Project & Final Project
 The culmination of my learning involved applying all the skills acquired throughout the exercises on a real dataset (Stack Overflow Survey results & US Department of Education survey). This project required merging, sorting, setting multiple indexes, and performing various cleaning tasks to extract meaningful insights.
 
 Contribution
